@@ -10,6 +10,14 @@
     margin: auto;
 }
 
-.m-w-20{
-    max-width: 20vw;
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
 }
