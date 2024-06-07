@@ -3,6 +3,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Roboto', sans-serif; 
+  background-color: rgb(63, 40, 99);
 }
 
 .button{
@@ -12,6 +13,8 @@ html, body {
   border: 2px solid black;
   border-radius: 9px;
   cursor: pointer;
+  background-color: rgb(82, 172, 149);
+  color: white;
 }
 
 .row{
